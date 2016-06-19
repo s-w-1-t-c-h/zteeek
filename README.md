@@ -1,4 +1,3 @@
-# zteek
 # PoC vulnerabilities for the ZTE MF91 4G pre-paid wireless modem (Telstra version) #
 
 I was mucking around with my ZTE a while back and found a few vulnerabilties. Reported to the manufacturer via Telstra, no fixes appear to be planned for release so there you go.
